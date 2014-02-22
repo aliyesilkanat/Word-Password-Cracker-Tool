@@ -1,4 +1,5 @@
 Word-Password-Cracker-Tool
 ==========================
 
-Password cracker tool for MS Word 2010 (.docx) Files
+Small tool for disabling password security in MS Word 2010 (.docx) Files
+
